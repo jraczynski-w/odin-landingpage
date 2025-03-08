@@ -186,3 +186,16 @@ width: 120px;
 margin-left: 100px;
 margin-right: 100px;
 }
+/* cta section */
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #152937;
+    margin: 0px;
+    height: 100px;
+}
+.footer__text{
+    color: #F9FAF8;
+    margin: 0;
+}
